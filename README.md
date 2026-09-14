@@ -70,9 +70,7 @@ Estudante de Engenharia de Software, interessado em desenvolvimento de software,
 ## 📊 Tecnologias mais utilizadas
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGoulart&layout=compact&langs_count=8&theme=github_dark&title_color=0F52BA&cache_seconds=1800" height="180em" alt="Tecnologias mais utilizadas"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGoulart&layout=compact&langs_count=6&theme=github_dark&title_color=0F52BA&hide_border=true" height="180em"/>
 </div>
 
 ---
