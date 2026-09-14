@@ -21,9 +21,9 @@
 
 ## 👋 Sobre mim
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="middle">
 
 Estudante de **Engenharia de Software** apaixonado por transformar aprendizado em código. Tenho interesse em **desenvolvimento Full Stack**, **Inteligência Artificial** e **Análise de Dados**, e uso cada projeto como laboratório para consolidar conhecimento.
 
@@ -33,12 +33,12 @@ Atualmente focado em evoluir minhas habilidades em **React**, **Node.js** e **bo
 - 💻 Foco atual: **Desenvolvimento Full Stack**
 - 🤖 Interesses: **IA**, **Dados** e **Automação**
 - 🌱 Sempre estudando algo novo
-- 📍 Brasil
+- 📍 Belo Horizonte - MG
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="display:block; border-radius:8px;" alt="Coding GIF"/>
 
 </td>
 </tr>
