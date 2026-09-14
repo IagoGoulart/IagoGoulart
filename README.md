@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagogoulart)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@exemplo.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagogoulart15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoGoulart)
 [![Disponível](https://img.shields.io/badge/Dispon%C3%ADvel%20para%20oportunidades-2EA043?style=for-the-badge&logo=handshake&logoColor=white)](#)
 
@@ -58,26 +58,6 @@ Atualmente focado em evoluir minhas habilidades em **React**, **Node.js** e **bo
 
 ### Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IagoGoulart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0F52BA&icon_color=0F52BA&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGoulart&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0F52BA&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=IagoGoulart&theme=tokyonight&hide_border=true&background=0D1117&stroke=0F52BA&ring=0F52BA&fire=0F52BA&currStreakLabel=0F52BA" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=IagoGoulart&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 </div>
 
@@ -141,7 +121,7 @@ Aplicação desenvolvida para organizar solicitações de suporte, acompanhar ti
 Estou aberto a **oportunidades**, **colaborações em projetos** e **boas conversas sobre tecnologia**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagogoulart)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@exemplo.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagogoulart15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoGoulart)
 
 <br/>
