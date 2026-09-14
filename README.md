@@ -25,15 +25,14 @@
 <tr>
 <td width="60%" valign="middle">
 
-Estudante de **Engenharia de Software** apaixonado por transformar aprendizado em código. Tenho interesse em **desenvolvimento Full Stack**, **Inteligência Artificial** e **Análise de Dados**, e uso cada projeto como laboratório para consolidar conhecimento.
+Estudante de Engenharia de Software que gosta de transformar aprendizado em código. Tenho interesse em desenvolvimento Full Stack, Inteligência Artificial e Análise de Dados, usando meus projetos como forma de colocar em prática e consolidar meus conhecimentos.
 
-Atualmente focado em evoluir minhas habilidades em **React**, **Node.js** e **boas práticas de engenharia**, construindo aplicações reais que resolvem problemas concretos.
+Atualmente focado em evoluir minhas habilidades em React, Node.js e boas práticas de engenharia, desenvolvendo projetos práticos e explorando novas tecnologias.
 
-- 🎓 Graduando em **Engenharia de Software**
-- 💻 Foco atual: **Desenvolvimento Full Stack**
-- 🤖 Interesses: **IA**, **Dados** e **Automação**
-- 🌱 Sempre estudando algo novo
-- 📍 Belo Horizonte - MG
+- 🎓 Graduando em Engenharia de Software
+- 💻 Foco atual: Desenvolvimento Full Stack
+- 🤖 Interesses: IA, Dados e Automação
+- 🌱 Sempre aprendendo e colocando novos conhecimentos em prática
 
 </td>
 <td width="40%" valign="middle" align="center">
