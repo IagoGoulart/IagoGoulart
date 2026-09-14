@@ -1,7 +1,8 @@
 # Iago Martins 👨‍💻
+
 ### Estudante de Engenharia de Software
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-0F52BA?style=flat-square&logo=target&logoColor=white)](https://github.com/IagoGoulart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iagogoulart) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IagoGoulart)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-0F52BA?style=flat-square\&logo=target\&logoColor=white)](https://github.com/IagoGoulart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/iagomartinsgoulart/)
 
 Estudante de Engenharia de Software, interessado em desenvolvimento de software, Inteligência Artificial e análise de dados. Atualmente focado em aprimorar meus conhecimentos em desenvolvimento Full Stack e transformar o que aprendo em projetos práticos.
 
@@ -70,7 +71,7 @@ Estudante de Engenharia de Software, interessado em desenvolvimento de software,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGoulart&layout=compact&langs_count=8&theme=github_dark&title_color=0F52BA" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGoulart&layout=compact&langs_count=8&theme=github_dark&title_color=0F52BA&cache_seconds=1800" height="180em" alt="Tecnologias mais utilizadas"/>
 
 </div>
 
@@ -82,10 +83,10 @@ Estudante de Engenharia de Software, interessado em desenvolvimento de software,
 
 Plataforma de análise e validação fiscal desenvolvida com React, Node.js, Express e PostgreSQL.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square\&logo=node.js\&logoColor=68A063)
+![Express](https://img.shields.io/badge/Express-20232A?style=flat-square\&logo=express\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square\&logo=postgresql\&logoColor=4169E1)
 
 **[Repositório](https://github.com/IagoGoulart/FiscalLens)** · **[Acessar projeto](https://fiscal-lens.vercel.app/)**
 
@@ -95,8 +96,8 @@ Plataforma de análise e validação fiscal desenvolvida com React, Node.js, Exp
 
 Sistema de gerenciamento de chamados desenvolvido para organizar solicitações de suporte, acompanhamento de tickets e atendimento aos usuários.
 
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
 
 **[Repositório](https://github.com/IagoGoulart/HelpDeskSystem)** · **[Acessar projeto](https://iagogoulart.github.io/HelpDeskSystem)**
