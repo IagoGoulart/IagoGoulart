@@ -54,11 +54,8 @@ Atualmente focado em evoluir minhas habilidades em React, Node.js e boas prátic
 ### Backend & Dados
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql&theme=dark" alt="Backend stack"/>
 
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" alt="Tools"/>
-
-### IA & APIs
-<img src="https://skillicons.dev/icons?i=google&theme=dark" alt="IA stack"/>
+### Ferramentas & Serviços
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,figma,google&theme=dark" alt="Ferramentas e serviços"/>
 
 </div>
 
@@ -118,18 +115,6 @@ Aplicação desenvolvida para organizar solicitações de suporte, acompanhar o 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IagoGoulart&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0F52BA&icon_color=0F52BA&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGoulart&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0F52BA&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
 
 ---
 
