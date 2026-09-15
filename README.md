@@ -55,7 +55,11 @@ Atualmente focado em evoluir minhas habilidades em React, Node.js e boas prátic
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql&theme=dark" alt="Backend stack"/>
 
 ### Ferramentas & Serviços
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,figma,google&theme=dark" alt="Ferramentas e serviços"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,google&theme=dark" alt="Ferramentas e serviços"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
 
 </div>
 
